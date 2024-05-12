@@ -82,4 +82,3 @@ int main() {
 - The implementation assumes that all edges are directed. Undirected edges are treated as a special case of directed edges.
 - The weight of 0 is used to represent the absence of an edge between two vertices, which may differ from other conventions.
 
-This project is licensed under the [MIT License](LICENSE)
