@@ -1,7 +1,8 @@
 # Graph Algorithms Implementation
 
 ID:211821137
-GMAIL:shira1d2631@gmail.com
+
+GMAIL: shira1d2631@gmail.com
 
 This C++ implementation provides various algorithms for working with graphs, including depth-first search (DFS), Bellman-Ford algorithm, cycle detection, and bipartite graph checking.
 
